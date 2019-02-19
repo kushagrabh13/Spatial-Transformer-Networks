@@ -1,0 +1,2 @@
+model_checkpoint_path: "stn_idsia_model.ckpt"
+all_model_checkpoint_paths: "stn_idsia_model.ckpt"
